@@ -1,0 +1,31 @@
+@media(min-width:768px){
+    .image{
+        width:50%;
+    }
+}
+
+
+
+.contact a{
+    cursor: pointer;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.social-media i{
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 30px; 
+}
+.social-media a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.container1{
+    border-radius: 20px;
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+}
